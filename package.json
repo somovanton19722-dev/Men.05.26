@@ -1,0 +1,13 @@
+{
+  "name": "apartment11",
+  "version": "1.0.0",
+  "description": "Лендинг концепт-стора Apartment 11",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
